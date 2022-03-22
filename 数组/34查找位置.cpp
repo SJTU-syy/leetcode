@@ -1,4 +1,4 @@
-//f- 
+//answer
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
@@ -57,7 +57,7 @@ public:
 
 
 
-//1-二分查找 + 线性展开，性能为O（N)
+//二分查找 + 线性展开，性能为O（N)
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
